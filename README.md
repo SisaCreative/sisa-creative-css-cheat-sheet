@@ -8,12 +8,12 @@ Add the stylesheet to your project within the `<head></head>` tag, then apply cl
 Add via remote load:
 
 ```html
-<link rel="stylesheet" href="https://dev.sisacreative.com/css/v1/sisa-cheat-sheet.css">
+<link rel="stylesheet" href="https://dev.sisacreative.com/css/v1/sisa-cheat-sheet.min.css">
 ```
 Or download and manually add: 
 
 ```html
-<link rel="stylesheet" href="/your/path/to/sisa-cheat-sheet.css">
+<link rel="stylesheet" href="/your/path/to/sisa-cheat-sheet.min.css">
 ```
 
 Example:
